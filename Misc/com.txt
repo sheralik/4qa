@@ -1,0 +1,8 @@
+Backend
+
+.\env\Scripts\Activate.ps1 активация env
+pip install django djangorestframework psycopg2-binary drf-spectacular djangorestframework-simplejwt
+django-admin startproject config .
+python manage.py runserver - запустить сервер приложения
+
+python manage.py startapp projects
