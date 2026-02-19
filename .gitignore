@@ -1,6 +1,8 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 env/
 *.sqlite3
 
@@ -8,10 +10,12 @@ env/
 node_modules/
 dist/
 build/
+npm-debug.log*
+yarn-error.log*
 
 # Environment
 .env
 
-#Misc
+# Misc / Secrets
 accs.txt
-4QA.fig
+*.fig
