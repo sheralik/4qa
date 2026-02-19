@@ -18,4 +18,5 @@ yarn-error.log*
 
 # Misc / Secrets
 accs_4qa.txt
+misc/
 *.fig
