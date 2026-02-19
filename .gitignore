@@ -11,3 +11,7 @@ build/
 
 # Environment
 .env
+
+#Misc
+accs.txt
+4QA.fig
