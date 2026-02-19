@@ -17,5 +17,5 @@ yarn-error.log*
 .env
 
 # Misc / Secrets
-accs.txt
+accs_4qa.txt
 *.fig
